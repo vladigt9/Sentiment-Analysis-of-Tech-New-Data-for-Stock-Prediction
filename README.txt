@@ -1,6 +1,4 @@
-These folders contain all the code necessary to reproduce the results on the paper.
 
-Bear in mind that I have left my personal token for the Guardian API in order for it to work.
 
 Explanations of files and folders:
 
